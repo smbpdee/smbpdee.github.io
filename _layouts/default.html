@@ -1,23 +1,40 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title> {{ page.title }} </title>
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-			<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/projects">Projects</a></li>
-        		<li><a href="/events">Events</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>	
+<html lang="en">
 
-<div class="container">
-	{{ content }}
-</div>
+  {% include head.html %}
 
-	</body>
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/">home</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/projects/">projects</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/events/">events</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">blog</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/findus">find us</a></li>
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <header class="masthead">
+        <h1 class="masthead-title">
+          <img src="/figures/SMBPDEElogo.png" />
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        </h1>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+            <span class="copyright"><i class="fa fa-copyright"></i> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}</span><br>
+            <span>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></span> &middot;
+            <span>Template by <a href="https://github.com/nicoelayda" target="_blank">Nico Elayda</a> &middot; Additional coding by <a href="https://twitter.com/vitorsudbrack" target="_blank">Vítor Sudbrack</a>  </span>
+        </small>
+      </footer>
+    </div>
+
+  </body>
 </html>

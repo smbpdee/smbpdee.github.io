@@ -1,2 +1,26 @@
-name: SMBpdee
-markdown: kramdown
+title:               SMB Subgroup on Population Dynamics, Ecology and Evolution
+url:                 https://smbpdee.github.io/
+baseurl:             ""
+
+markdown:            kramdown
+highlighter:         rouge
+
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+
+permalink:           pretty
+paginate:            5
+paginate_path:       /blog/:num
+
+sass:
+  sass_dir:          _sass
+  style:             :compressed
+
+author:
+  name:              SMB Subgroup on Population Dynamics, Ecology and Evolution 
+  url:               smbpdee.github.io
+  email:             someone@smb.org
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist
