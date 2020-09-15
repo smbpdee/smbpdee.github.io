@@ -20,17 +20,17 @@ We hope our work shifts the paradigm of either fragmentation per se is good or b
 
 
 
-About the experience in eSMB2020
+## About the experience in eSMB2020
 
 We were immensely happy to have the opportunity of exposing our project in a meeting of incredible researchers from all over the world working in Mathematical Biology, and more specifically our subgroup of Population Dynamics, Ecology and Evolution. The feedback, networking and information exchange environment in eSMB2020 was awesome and overcame any possible adversity which an online version could have had compared to traditional conferences.  Understanding the new opportunities that the virtual world brings is key and we tried to bring it into our presentation: virtual posters make linking supplementary material, documents and contact information much easier than traditional versions - only one click away from viewers. The platforms selected by the organizers made the poster presentations easy, interactive and reserved, which immensely contributed to the success of the event. Finally, we take the opportunity to thank all organizers, session chairs, lectures and hosts, the support team and every colleague of the Mathematical Biology community present. 
 
 
-References
+## References
 
-[^1] Fletcher Jr, Robert J., et al. "Is habitat fragmentation good for biodiversity?." Biological conservation 226 (2018): 9-15.
+[^1]: Fletcher Jr, Robert J., et al. "Is habitat fragmentation good for biodiversity?." Biological conservation 226 (2018): 9-15.
 
-[^2] Fahrig, Lenore, et al. "Is habitat fragmentation bad for biodiversity?." Biological Conservation 230 (2019): 179-186.
+[^2]: Fahrig, Lenore, et al. "Is habitat fragmentation bad for biodiversity?." Biological Conservation 230 (2019): 179-186.
 
-[^3] Fahrig, Lenore. "Effects of habitat fragmentation on biodiversity." Annual review of ecology, evolution, and systematics 34.1 (2003): 487-515.
+[^3]: Fahrig, Lenore. "Effects of habitat fragmentation on biodiversity." Annual review of ecology, evolution, and systematics 34.1 (2003): 487-515.
 
-[^4] Didham, Raphael K., Valerie Kapos, and Robert M. Ewers. "Rethinking the conceptual foundations of habitat fragmentation research." Oikos 121.2 (2012): 161-170.
+[^4]: Didham, Raphael K., Valerie Kapos, and Robert M. Ewers. "Rethinking the conceptual foundations of habitat fragmentation research." Oikos 121.2 (2012): 161-170.
