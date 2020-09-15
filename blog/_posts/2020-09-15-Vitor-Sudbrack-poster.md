@@ -5,6 +5,10 @@ date: '2020-09-15 14:00 -0300'
 categories: meta
 ---
 
+Congratulations to Vitor Sudbrack,  one of the 4 winners of the SMB2020 PDEE poster prizes!
+
+View the prizewinning poster [here](http://www2.unb.ca/~watmough/smbpdee/posters/Sudbrack_Vitor_POPD.pdf)
+
 ## What is the ecological value of fragmented landscapes?
 
 Imagine the following situation: you are contacted by local authorities to ask your recommendation on two possibilities of ecological reserve parks. The first possibility is a huge park with a total area of 3 km² - almost a new Central Park. The second proposal is constructing three smaller parks, 1 km² each, and therefore summing the same total area as before. After suggesting that both actions should be considered simultaneously and hearing a negative feedback from them, which possibility would you endorse? What further information would you request in order to make your choice?

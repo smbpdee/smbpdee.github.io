@@ -5,6 +5,9 @@ date: '2020-09-15 14:00 -0300'
 categories: meta
 ---
 
+Congratulations to Shota Shibasaki,  one of the 4 winners of the SMB2020 PDEE poster prizes!
+
+View the prizewinning poster [here](http://www2.unb.ca/~watmough/smbpdee/posters/Shibasaki_Shota_POPD.pdf)
 
 Microorganisms often live in fluctuating environments. For example, the gut microbiota of a host experience fluctuating resources due to the host’s feeding rhythm (e.g., the host is eating food or starving). As recent studies show that species interactions can change depending on the amounts of resources and toxin, environmental fluctuations are then expected to change species interactions. Such changes in species interactions can result in those in species diversity. However, the time scales of environmental fluctuations may vary; in the example of the gut microbiota, some hosts may eat food three times per day while other hosts may eat more in a day (like some of you during working from home).
 
