@@ -5,6 +5,10 @@ date: '2020-08-23 03:12:00 -0300'
 categories: meta
 ---
 
+Congratulations to Vahini Nareddy,  one of the 4 winners of the SMB2020 PDEE poster prizes!
+
+View the prizewinning poster [here](http://www2.unb.ca/~watmough/smbpdee/posters/Nareddy_Vahini_POPD.pdf)
+
 I am Vahini Nareddy, a physics graduate student from UMass Amherst working in the area of classical statistical mechanics with application to ecology. Currently, I am working with Prof. Jon Machta towards my dissertation titled “Dynamical models of statistical physics for spatially-coupled ecological oscillators”. We work in collaboration with Prof. Alan Hastings and Dr. Shadisadat Esmaeili from UC Davis and Prof. Karen Abbott from Case Western.
 
 Our research focuses on understanding and predicting emergent dynamical phenomena in spatial-coupled ecological systems. In graduate school, I was drawn to this research problem primarily due to a chance to work on applications of “Ising universality class”. Different systems such as arrangement in magnets, firing in neurons and masting in trees share certain common features like pairwise correlation length. This phenomenon of sharing properties exactly among different systems is known as “universality” and is well studied in statistical physics. Ising model in two dimensions is one of the simplest statistical models initially developed to explain the arrangement of spins (either up or down) in magnets. Spatially-coupled, two-cycle ecological oscillators and many other systems share common features with Ising model and hence exist in Ising universality class. This ensures that a simple Ising model can replicate long-time properties of these ecological systems.
