@@ -1,0 +1,11 @@
+<div style="background-color: #DCE7DD; padding: 1rem !important; margin-bottom: 10px; text-align: left">
+    <div style="line-height: 110%;">
+        <h4 style="margin: 0px;">
+            <a href="{{pp.Webpage}}">{{ pp.Name }}</a>
+        </h4>
+        <small style="margin-left: 15px;">
+            <i class="fa fa-calendar fa-lg" aria-hidden="true"></i> {{ pp.Dates }} in {{ pp.Place }}
+        </small>
+        {% if pp.Deadlines %} <br><small style="margin-left:15px;"><i class="fa fa-info-circle fa-lg" aria-hidden="true"></i> {{ pp.Deadlines }} </small> {% endif %}
+    </div>
+</div>

@@ -1,0 +1,21 @@
+<div style="background-color: #DCE7DD; padding: 1rem !important; margin-bottom: 10px; display: flex; flex-wrap: wrap;">
+    <div style="flex: 0 0 25%; max-width: 25%;">
+        <img alt="{{ pp.Name }}" src="/figures/people/{{ pp.Photo }}" style="border-radius: 50% !important; align-items: center;margin: auto;" height="85" width="85">
+    </div>
+    <div style="flex: 0 0 75%; max-width: 75%; line-height: 100%;">
+        <h3 style="margin: 0px;">
+            {{ pp.Name }}
+        </h3>
+        <small>
+            {{ pp.Institution }}
+        </small>
+        <br>
+        <small style="color: #00a43f;">
+            {{ pp.Position }}
+        </small>
+        <p>
+            <a href="mailto:{{pp.Email}}"><i class="fa fa-envelope" aria-hidden="true"></i></a> 
+            {% if pp.Homepage %}<a href="{{pp.Homepage}}"><i class="fa fa-globe" aria-hidden="true"></i></a>{% endif %}
+        </p>
+    </div>
+</div>
