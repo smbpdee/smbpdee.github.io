@@ -2,3 +2,5 @@ _site/
 .jekyll-cache/
 .*.swp
 Gemfile.lock
+.DS_Store
+figures/.DS_Store
