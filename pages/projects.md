@@ -15,5 +15,3 @@ The club will meet via Zoom every four to eight weeks, depending on interest. At
 If you're interested in the club, whether as leader, host or participant, please fill out the Google form at [link](https://forms.gle/vWrpjz7kQ9dadUNJ8). If accessing Google is difficult for you, please email Evan Curcio at [evan.curcio@gmail.com](mailto:evan.curcio@gmail.com).
 
 We hope this club will provide a stimulating environment where subgroup members will enhance their understanding of the field while getting to know each other better.
-
-***

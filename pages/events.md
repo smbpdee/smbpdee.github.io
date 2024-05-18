@@ -5,15 +5,7 @@ permalink: /events
 ---
 
 
-<p class="message">
-<i class="fa fa-exclamation-circle" aria-hidden="true"></i> <b>Disclaimer:</b> We are not involved in the organization of any conferences mentioned below.
-</p>
-
-<p class="message">
 <i class="fa fa-envelope" aria-hidden="true"></i> For posting upcoming conferences to this list, send email to <a href="mailto:smbpdee@gmail.com">smbpdee@gmail.com</a>.
-</p>
-
-## Upcoming conferences
 
 <div style="padding: 0 0 0 10%;">
 {% for pp in site.data.conferences %}
@@ -21,3 +13,4 @@ permalink: /events
 {% endfor %}
 </div>
 
+<i class="fa fa-exclamation-circle" aria-hidden="true"></i> <b>Disclaimer:</b> We are not involved in the organization of any conferences mentioned below.
